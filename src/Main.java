@@ -42,7 +42,7 @@ public class Main {
             total9 = total9 / 100 + total9 + saving9;
             System.out.println("Месяц " + i + ", сумма накоплений равна " + total9 + " рублей");
         }
-        System.out.println("\nЗадание 9");
+        System.out.println("\nЗадание 10");
         for (int i = 1; i < 11; i++) {
             System.out.println("2*" + i + "=" + i * 2);
         }
